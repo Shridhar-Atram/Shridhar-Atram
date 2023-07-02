@@ -6,9 +6,6 @@
 
 
 
-<p align="center">
-  <img src="focus-animation.gif" width="414" height="320" />
-</p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2336BCF7&size=26&width=403&height=54&lines=Connect+with+me+%F0%9F%94%97)](https://git.io/typing-svg)
