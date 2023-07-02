@@ -16,9 +16,7 @@
 <a href="https://medium.com/@shridharatram555">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
-<a href="https://twitter.com/Gaurav2oo1">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
+
 <br> <br>
 
 ## 👨‍🎓 About Me
