@@ -4,9 +4,9 @@
   <samp><h1 align="center">👋 Hey there, I'm Shridhar Atram!</h1></samp>
 </p>
 
-<!-- Introduction -->
+<!-- Animated Introduction -->
 <p align="center">
-  <img src="focus-animation.gif" width="600" height="450" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/master/focus-animation.gif" width="600" height="400" />
 </p>
 
 <!-- Connect with me -->
@@ -63,15 +63,18 @@
   </p>
 </details>
 
-<!-- Stats -->
-## 📈 Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shridhar-Atram&show_icons=true&theme=highcontrast" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shridhar-Atram&theme=highcontrast" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shridhar-Atram&layout=compact&theme=radical" />
-</p>
+<!-- Animated Stats -->
+<details>
+  <summary>📊 Click to Expand</summary>
+  <br>
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shridhar-Atram&show_icons=true&theme=highcontrast" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shridhar-Atram&theme=highcontrast" />
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shridhar-Atram&layout=compact&theme=radical" />
+  </p>
+</details>
 
 <!-- Footer -->
 <p align="center">
